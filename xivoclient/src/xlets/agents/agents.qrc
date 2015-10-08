@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>../../../obj/agents_fr.qm</file>
+        <file>../../../obj/agents_en.qm</file>
+        <file>../../../obj/agents_es_CL.qm</file>
+        <file>../../../obj/agents_es_ES.qm</file>
+        <file>../../../obj/agents_pt_BR.qm</file>
+        <file>../../../obj/agents_hu.qm</file>
+        <file>../../../obj/agents_de.qm</file>
+        <file>../../../obj/agents_ja.qm</file>
+        <file>../../../obj/agents_it.qm</file>
+        <file>../../../obj/agents_nl.qm</file>
+    </qresource>
+</RCC>

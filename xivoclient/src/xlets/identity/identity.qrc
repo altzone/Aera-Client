@@ -1,0 +1,23 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>../../../obj/identity_fr.qm</file>
+        <file>../../../obj/identity_en.qm</file>
+        <file>../../../obj/identity_es_CL.qm</file>
+        <file>../../../obj/identity_es_ES.qm</file>
+        <file>../../../obj/identity_pt_BR.qm</file>
+        <file>../../../obj/identity_hu.qm</file>
+        <file>../../../obj/identity_de.qm</file>
+        <file>../../../obj/identity_ja.qm</file>
+        <file>../../../obj/identity_it.qm</file>
+        <file>../../../obj/identity_nl.qm</file>
+    </qresource>
+    <qresource prefix="/identity">
+        <file>images/john-doe.svg</file>
+        <file>images/voicemail.svg</file>
+        <file>images/hide.svg</file>
+        <file>images/show.svg</file>
+        <file>images/down-arrow.svg</file>
+        <file>images/search-bold.svg</file>
+    </qresource>
+</RCC>
